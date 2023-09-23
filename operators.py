@@ -28,12 +28,14 @@ print("multiplication of",x,"and",y,"is",mul,type(mul))
 div =x/y
 print("Div of ",x,"and",y,"is",div,type(div))
 
-#modulus gives U remainder
+ #modulus gives U remainder
 modu =x%y
 print("Mod of",x,"and",y,"is",modu,type(modu))
 
-#Exponentiation
+#Exponentiation gives u (x pe power y)
 Exp =x**y
 print("Exponentiation of",x,"and",y,"is",Exp,type(Exp))
 
 #Floor division
+fldiv =x//y
+print(fldiv)
