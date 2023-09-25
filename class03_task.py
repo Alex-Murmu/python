@@ -17,3 +17,6 @@ print(type(number))
 print(float,type(float))
 
 
+f_value = float 
+
+
