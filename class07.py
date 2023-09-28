@@ -1,3 +1,5 @@
+"""taking input from user"""
+
 name = input("Enter your name:")
 branch = input("Enter your branch name:")
 Reg_no = input("Enter your board roll no:")
